@@ -24,4 +24,5 @@
 | [Chrome](https://www.google.com/chrome/) | Google 开发的免费浏览器，具有快速、安全、简洁的特点，并提供强大的扩展支持。 | [Download](https://www.google.com/chrome/) |
 | [PotPlayer](https://potplayer.daum.net/) | 一款轻量级的媒体播放器，支持多种视频和音频格式，具有丰富的功能和设置选项。 | [Download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) |
 | [Telegram Desktop](https://telegram.org/dl/desktop/win64) | 一款基于 Telegram 的跨平台桌面客户端，支持消息同步、群组管理和各种多媒体格式的支持。 | [Download](https://telegram.org/dl/desktop/win64) |
+| [VMware Workstation](https://www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=34687355&id=xfvdDDJQ2eCYves4_wEKO9JK-DJETjYQftcYf_X_MskySje1UpUb1NlOd-1HFFJsXweIJw==&verify=1734680417-XALeyhJ8MVzD77Ckns%2FyJ2HK5amZcEDaYyBvBpHAGZM%3D) |
 | [WeChat](https://www.wechat.com/en/) | 腾讯开发的即时通讯软件，支持语音、视频聊天以及各种社交功能。 | [Download](https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe) |
