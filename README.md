@@ -7,7 +7,7 @@
 | [Clash for Windows](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 一款基于 Clash 的 Windows 客户端，提供流量转发、规则设置、科学上网等功能。 | [Download](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_OPT-1/Clash.for.Windows.Setup.0.20.39_Opt-1.exe) |
 | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) | 一款功能强大的 Windows 系统维护工具，支持系统镜像管理、清理和修复等操作。 | [Download](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip) |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows 上的一款增强工具集，提供多种实用的系统优化、窗口管理和开发工具。 | [Download](https://github.com/microsoft/PowerToys/releases/download/v0.87.1/PowerToysSetup-0.87.1-x64.exe) |
-| [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁。它支持最新版微信/QQ/TIM，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
+| [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
 
 ## 果壳剥壳
 
