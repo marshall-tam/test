@@ -8,6 +8,10 @@
 | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) | 一款功能强大的 Windows 系统维护工具，支持系统镜像管理、清理和修复等操作。 | [Download](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip) |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows 上的一款增强工具集，提供多种实用的系统优化、窗口管理和开发工具。 | [Download](https://github.com/microsoft/PowerToys/releases/download/v0.87.1/PowerToysSetup-0.87.1-x64.exe) |
 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
+| [Alist](https://github.com/AlistGo/alist) | 一款轻量级、开源的文件管理工具，支持 Web 界面并兼容多种云存储服务。 | [Download](https://github.com/AlistGo/alist/releases/download/v3.41.0/alist-windows-386.zip) |
+| [AlistHelper](https://github.com/Xmarmalade/alisthelper) | Alist 的辅助工具，帮助更方便地管理 Alist 文件管理系统。 | [Download](https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.5/AlistHelper_installer_v0.1.5_windows-x86_64.exe) |
+| [Rclone](https://github.com/rclone/rclone) | 一款命令行工具，提供同步、备份和加密等功能，支持多种云存储服务的操作。 | [Download](https://github.com/rclone/rclone/releases/download/v1.68.2/rclone-v1.68.2-windows-386.zip) |
+| [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
 
 ## 果壳剥壳
 
