@@ -17,3 +17,4 @@
 | 软件名称       | 软件简介             | 来源/链接   |
 |----------------|----------------------|-------------|
 | [AME Wizard](https://ameliorated.io/) | 一个针对 Windows 操作系统的增强工具，旨在改善用户体验和性能。 | [下载链接](https://download.ameliorated.io/AME%20Wizard%20Beta.zip) |
+| [Chrome](https://www.google.com/intl/zh-CN/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0#) | Google 开发的免费浏览器，具有快速、安全、简洁的特点，并提供强大的扩展支持。 | [下载链接](https://www.google.com/intl/zh-CN/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0#) |
