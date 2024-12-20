@@ -12,6 +12,7 @@
 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
 | [Rclone](https://github.com/rclone/rclone) | 一款命令行工具，提供同步、备份和加密等功能，支持多种云存储服务的操作。 | [Download](https://github.com/rclone/rclone/releases/download/v1.68.2/rclone-v1.68.2-windows-386.zip) |
 | [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
+| [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/tag/release_def_12_8_2) |
 
 ## 果壳剥壳
 
@@ -32,3 +33,5 @@
 | [VMware Workstation](https://www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=34687355&id=xfvdDDJQ2eCYves4_wEKO9JK-DJETjYQftcYf_X_MskySje1UpUb1NlOd-1HFFJsXweIJw==&verify=1734680417-XALeyhJ8MVzD77Ckns%2FyJ2HK5amZcEDaYyBvBpHAGZM%3D) |
 | [WeChat](https://www.wechat.com/en/) | 腾讯开发的即时通讯软件，支持语音、视频聊天以及各种社交功能。 | [Download](https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe) |
 | [Battle.net](https://www.battle.net) | Blizzard Entertainment 的游戏平台，提供各类 Blizzard 游戏及其他内容的购买与下载。 | [Download](https://downloader.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe) |
+| [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) | 一款功能强大的 Windows 程序，帮助用户管理 CPU 降频、提高性能和减少功耗。 | [Download](https://throttlestop.b-cdn.net/ThrottleStop_9.6.zip) |
+| [Macs Fan Control](https://crystalidea.com/macs-fan-control) | 一款用于 Mac 电脑的风扇控制工具，可以帮助用户调整风扇速度，保持电脑的低温。 | [Download](https://crystalidea.com/downloads/macsfancontrol_setup.exe) |
