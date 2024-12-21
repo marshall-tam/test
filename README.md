@@ -19,11 +19,16 @@
 | 软件名称                  | 软件简介             | 来源/链接   |
 |---------------------------|----------------------|-------------|
 | [AME Wizard](https://ameliorated.io/) | 一个针对 Windows 操作系统的增强工具，旨在改善用户体验和性能。 | [Download](https://download.ameliorated.io/AME%20Wizard%20Beta.zip) |
-| [Bandizip](https://bandizip.com/) | 一款功能强大的压缩/解压工具，支持多种文件格式，界面简洁易用。 | [Download](https://124-238-119-14.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-444/bd77cd00/1629923-0/bd77cd0046ce68c3e1c80ddf6f4931bc/c-m34?v=5&t=1734836860&s=1734836860fcccf4fb3bbe2e60a9b34c07fc046fcc&r=GR9LX4&bzc=2&bzs=313831383639333439353a393138343435353a363536343334343a31383138363933343935&filename=BANDIZIP6-SETUP.EXE&x-mf-biz-cid=d67a46cc-8e2b-49e1-bf80-55020cffef30-3dab77&cache_type=1&xmfcid=635690a2-ebef-44c5-9a2b-e143fdc4cf41-1-9eed82220) |
 | [Chrome](https://www.google.com/chrome/) | Google 开发的免费浏览器，具有快速、安全、简洁的特点，并提供强大的扩展支持。 | [Download](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B98FA2F36-DCC5-5606-BAA0-464A1F3FDA5B%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe) |
 | [Macs Fan Control](https://crystalidea.com/macs-fan-control) | 一款用于 Mac 电脑的风扇控制工具，可以帮助用户调整风扇速度，保持电脑的低温。 | [Download](https://crystalidea.com/downloads/macsfancontrol_setup.exe) |
 | [PotPlayer](https://potplayer.daum.net/) | 一款轻量级的媒体播放器，支持多种视频和音频格式，具有丰富的功能和设置选项。 | [Download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) |
 | [Steam](https://store.steampowered.com) | 世界领先的数字游戏分发平台，提供游戏购买、下载、更新和多人联网服务。 | [Download](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe) |
 | [Telegram Desktop](https://telegram.org/dl/desktop/win64) | 一款基于 Telegram 的跨平台桌面客户端，支持消息同步、群组管理和各种多媒体格式的支持。 | [Download](https://telegram.org/dl/desktop/win64) |
 | [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) | 一款功能强大的 Windows 程序，帮助用户管理 CPU 降频、提高性能和减少功耗。 | [Download](https://throttlestop.b-cdn.net/ThrottleStop_9.6.zip) |
+
+## 网盘
+
+| 软件名称       | 软件简介             | 来源/链接   |
+|----------------|----------------------|-------------|
+| [Bandizip](https://bandizip.com/) | 一款功能强大的压缩/解压工具，支持多种文件格式，界面简洁易用。 | [Download](https://124-238-119-14.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-444/bd77cd00/1629923-0/bd77cd0046ce68c3e1c80ddf6f4931bc/c-m34?v=5&t=1734836860&s=1734836860fcccf4fb3bbe2e60a9b34c07fc046fcc&r=GR9LX4&bzc=2&bzs=313831383639333439353a393138343435353a363536343334343a31383138363933343935&filename=BANDIZIP6-SETUP.EXE&x-mf-biz-cid=d67a46cc-8e2b-49e1-bf80-55020cffef30-3dab77&cache_type=1&xmfcid=635690a2-ebef-44c5-9a2b-e143fdc4cf41-1-9eed82220) |
 | [VMware Workstation](https://www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://124-238-119-15.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-640/6227e9e7/1812831489-0/6227e9e732c4eaddf05ecf1779a94e80/c-m64?v=5&t=1734836041&s=1734836041416529cbc1f5899c8fb80b1234709ff8&r=L1W0KS&bzc=2&bzs=313831383639333439353a393138343435333a3436393639313634303a31383138363933343935&filename=VMware-workstation-full-17.6.2-24409262.exe&x-mf-biz-cid=59a41c84-0306-447a-a9b3-af22f0b1ba41-584000&cache_type=1&xmfcid=fbfe1455-6f62-4f23-abe6-fb9b03491d83-1-9eed82220) |
