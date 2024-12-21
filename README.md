@@ -14,18 +14,12 @@
 | [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
 | [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/tag/release_def_12_8_2) |
 
-## 果壳剥壳
-
-| 软件名称                  | 软件简介             | 来源/链接   |
-|---------------------------|----------------------|-------------|
-| [Bandizip](https://bandizip.com/) | 一款功能强大的压缩/解压工具，支持多种文件格式，界面简洁易用。 | [Download](https://cdn-cncc2-cd.mycsdn.cn:4388/d.php?p=kydvUngiKt8s6b=PEdMBlzbOagdsYqP1-gf72nRbezfyht6uAtgL82ZsCjAv1lsJLrs17kQkhru9khtvBguPN19a0qtfksAGOwqobfuDUXdBmwK54du4UyepbVuXkggSHwMh8msPirg7koJwDetTtla9Cw9-fgOkBu81rj9rznRv3ucaws8vTneTblYQmgdbTdtBpybSadgAWmMAFfui7lfvAzP2V3q-6uw=xkpEdbdbBepMV) |
-| [Office 2013-2024 C2R Install](https://www.microsoft.com) | 一款用于安装和管理 Microsoft Office 2013-2024 版本的工具，支持 C2R 安装。 | [Download](https://cdn-cncc2-cd.mycsdn.cn:4388/d.php?p=GDCjGJR1x-PhJSfwnPzk2d9dQ-Q75SzakCFeUZeOyGFZXPdjf6SdhIvjlaxOZE-tbTPHzWDEAU=NLCRTiUPCyGk5aSOyLAy1pRwoyFwdR9CPJXfu48MUhOugqOjU8Uc92BBHxayGB3C20WOKf-lgxHdwX6TNL=OjQVQF0EOFvSBAjXTsgR=NzCSOdMSqV9zNeO-ywI0JEZvwKGQNw8BzoavOpEeh2SwIzPjkyc9dQ7Qr3YhS17VOfW-OxGFNXPdjf7R5gIP3ATOyNDMxhQOLuLN6o) |
-
 ## 官网
 
 | 软件名称                  | 软件简介             | 来源/链接   |
 |---------------------------|----------------------|-------------|
 | [AME Wizard](https://ameliorated.io/) | 一个针对 Windows 操作系统的增强工具，旨在改善用户体验和性能。 | [Download](https://download.ameliorated.io/AME%20Wizard%20Beta.zip) |
+| [Bandizip](https://bandizip.com/) | 一款功能强大的压缩/解压工具，支持多种文件格式，界面简洁易用。 | [Download](https://124-238-119-14.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-444/bd77cd00/1629923-0/bd77cd0046ce68c3e1c80ddf6f4931bc/c-m34?v=5&t=1734836860&s=1734836860fcccf4fb3bbe2e60a9b34c07fc046fcc&r=GR9LX4&bzc=2&bzs=313831383639333439353a393138343435353a363536343334343a31383138363933343935&filename=BANDIZIP6-SETUP.EXE&x-mf-biz-cid=d67a46cc-8e2b-49e1-bf80-55020cffef30-3dab77&cache_type=1&xmfcid=635690a2-ebef-44c5-9a2b-e143fdc4cf41-1-9eed82220) |
 | [Chrome](https://www.google.com/chrome/) | Google 开发的免费浏览器，具有快速、安全、简洁的特点，并提供强大的扩展支持。 | [Download](https://www.google.com/chrome/) |
 | [Macs Fan Control](https://crystalidea.com/macs-fan-control) | 一款用于 Mac 电脑的风扇控制工具，可以帮助用户调整风扇速度，保持电脑的低温。 | [Download](https://crystalidea.com/downloads/macsfancontrol_setup.exe) |
 | [PotPlayer](https://potplayer.daum.net/) | 一款轻量级的媒体播放器，支持多种视频和音频格式，具有丰富的功能和设置选项。 | [Download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) |
