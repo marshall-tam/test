@@ -1,7 +1,7 @@
 ## GitHub
 
-| 软件名称       | 软件简介             | 来源/链接   |
-|----------------|----------------------|-------------|
+| 软件名称                  | 软件简介             | 来源/链接   |
+|---------------------------|----------------------|-------------|
 | [Alist](https://github.com/AlistGo/alist) | 一款轻量级、开源的文件管理工具，支持 Web 界面并兼容多种云存储服务。 | [Download](https://github.com/AlistGo/alist/releases/download/v3.41.0/alist-windows-386.zip) |
 | [AlistHelper](https://github.com/Xmarmalade/alisthelper) | Alist 的辅助工具，帮助更方便地管理 Alist 文件管理系统。 | [Download](https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.5/AlistHelper_installer_v0.1.5_windows-x86_64.exe) |
 | [Atlas OS](https://atlasos.io/) | 一个轻量级、性能优化的操作系统，专为游戏和高效计算设计。 | [Download](https://github.com/Atlas-OS/Atlas/releases/download/0.4.1/AtlasPlaybook_v0.4.1.zip) |
@@ -16,22 +16,20 @@
 
 ## 果壳剥壳
 
-| 软件名称       | 软件简介             | 来源/链接   |
-|----------------|----------------------|-------------|
+| 软件名称                  | 软件简介             | 来源/链接   |
+|---------------------------|----------------------|-------------|
 | [Bandizip](https://bandizip.com/) | 一款功能强大的压缩/解压工具，支持多种文件格式，界面简洁易用。 | [Download](https://cdn-cncc2-cd.mycsdn.cn:4388/d.php?p=kydvUngiKt8s6b=PEdMBlzbOagdsYqP1-gf72nRbezfyht6uAtgL82ZsCjAv1lsJLrs17kQkhru9khtvBguPN19a0qtfksAGOwqobfuDUXdBmwK54du4UyepbVuXkggSHwMh8msPirg7koJwDetTtla9Cw9-fgOkBu81rj9rznRv3ucaws8vTneTblYQmgdbTdtBpybSadgAWmMAFfui7lfvAzP2V3q-6uw=xkpEdbdbBepMV) |
 | [Office 2013-2024 C2R Install](https://www.microsoft.com) | 一款用于安装和管理 Microsoft Office 2013-2024 版本的工具，支持 C2R 安装。 | [Download](https://cdn-cncc2-cd.mycsdn.cn:4388/d.php?p=GDCjGJR1x-PhJSfwnPzk2d9dQ-Q75SzakCFeUZeOyGFZXPdjf6SdhIvjlaxOZE-tbTPHzWDEAU=NLCRTiUPCyGk5aSOyLAy1pRwoyFwdR9CPJXfu48MUhOugqOjU8Uc92BBHxayGB3C20WOKf-lgxHdwX6TNL=OjQVQF0EOFvSBAjXTsgR=NzCSOdMSqV9zNeO-ywI0JEZvwKGQNw8BzoavOpEeh2SwIzPjkyc9dQ7Qr3YhS17VOfW-OxGFNXPdjf7R5gIP3ATOyNDMxhQOLuLN6o) |
 
 ## 官网
 
-| 软件名称       | 软件简介             | 来源/链接   |
-|----------------|----------------------|-------------|
+| 软件名称                  | 软件简介             | 来源/链接   |
+|---------------------------|----------------------|-------------|
 | [AME Wizard](https://ameliorated.io/) | 一个针对 Windows 操作系统的增强工具，旨在改善用户体验和性能。 | [Download](https://download.ameliorated.io/AME%20Wizard%20Beta.zip) |
 | [Chrome](https://www.google.com/chrome/) | Google 开发的免费浏览器，具有快速、安全、简洁的特点，并提供强大的扩展支持。 | [Download](https://www.google.com/chrome/) |
-| [PotPlayer](https://potplayer.daum.net/) | 一款轻量级的媒体播放器，支持多种视频和音频格式，具有丰富的功能和设置选项。 | [Download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) |
-| [Telegram Desktop](https://telegram.org/dl/desktop/win64) | 一款基于 Telegram 的跨平台桌面客户端，支持消息同步、群组管理和各种多媒体格式的支持。 | [Download](https://telegram.org/dl/desktop/win64) |
-| [Steam](https://store.steampowered.com) | 世界领先的数字游戏分发平台，提供游戏购买、下载、更新和多人联网服务。 | [Download](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe) |
-| [VMware Workstation](https://www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=34687355&id=xfvdDDJQ2eCYves4_wEKO9JK-DJETjYQftcYf_X_MskySje1UpUb1NlOd-1HFFJsXweIJw==&verify=1734680417-XALeyhJ8MVzD77Ckns%2FyJ2HK5amZcEDaYyBvBpHAGZM%3D) |
-| [WeChat](https://www.wechat.com/en/) | 腾讯开发的即时通讯软件，支持语音、视频聊天以及各种社交功能。 | [Download](https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe) |
-| [Battle.net](https://www.battle.net) | Blizzard Entertainment 的游戏平台，提供各类 Blizzard 游戏及其他内容的购买与下载。 | [Download](https://downloader.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe) |
-| [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) | 一款功能强大的 Windows 程序，帮助用户管理 CPU 降频、提高性能和减少功耗。 | [Download](https://throttlestop.b-cdn.net/ThrottleStop_9.6.zip) |
 | [Macs Fan Control](https://crystalidea.com/macs-fan-control) | 一款用于 Mac 电脑的风扇控制工具，可以帮助用户调整风扇速度，保持电脑的低温。 | [Download](https://crystalidea.com/downloads/macsfancontrol_setup.exe) |
+| [PotPlayer](https://potplayer.daum.net/) | 一款轻量级的媒体播放器，支持多种视频和音频格式，具有丰富的功能和设置选项。 | [Download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) |
+| [Steam](https://store.steampowered.com) | 世界领先的数字游戏分发平台，提供游戏购买、下载、更新和多人联网服务。 | [Download](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe) |
+| [Telegram Desktop](https://telegram.org/dl/desktop/win64) | 一款基于 Telegram 的跨平台桌面客户端，支持消息同步、群组管理和各种多媒体格式的支持。 | [Download](https://telegram.org/dl/desktop/win64) |
+| [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) | 一款功能强大的 Windows 程序，帮助用户管理 CPU 降频、提高性能和减少功耗。 | [Download](https://throttlestop.b-cdn.net/ThrottleStop_9.6.zip) |
+| [VMware Workstation](https://www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=34687355&id=xfvdDDJQ2eCYves4_wEKO9JK-DJETjYQftcYf_X_MskySje1UpUb1NlOd-1HFFJsXweIJw==&verify=1734680417-XALeyh
