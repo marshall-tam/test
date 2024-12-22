@@ -13,7 +13,6 @@
 | [Rclone](https://github.com/rclone/rclone) | 一款命令行工具，提供同步、备份和加密等功能，支持多种云存储服务的操作。 | [Download](https://github.com/rclone/rclone/releases/download/v1.68.2/rclone-v1.68.2-windows-386.zip) |
 | [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
 | [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/tag/release_def_12_8_2) |
-| [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download]([https://github.com/ShadowWhisperer/Remove-MS-Edge?tab=readme-ov-file](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true)) |
 | [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true) |
 
 
