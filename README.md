@@ -12,7 +12,7 @@
 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
 | [Rclone](https://github.com/rclone/rclone) | 一款命令行工具，提供同步、备份和加密等功能，支持多种云存储服务的操作。 | [Download](https://github.com/rclone/rclone/releases/download/v1.68.2/rclone-v1.68.2-windows-386.zip) |
 | [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
-| [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/tag/release_def_12_8_2) |
+| [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/download/release_def_12_8_2/DefenderRemover.exe) |
 | [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true) |
 | [Draw.io](https://github.com/jgraph/drawio-desktop) | 一个强大的图形绘制工具，支持多种绘图格式，广泛用于流程图、UML、网络图等的创建。 | [Download](https://github.com/jgraph/drawio-desktop/releases/download/v25.0.2/draw.io-25.0.2-windows-installer.exe) |
 
