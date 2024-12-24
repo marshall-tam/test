@@ -38,5 +38,4 @@
 | [CCleaner](https://www.ccleaner.com/) | 一款常用的系统优化和清理工具，能够清理垃圾文件、修复注册表、提升电脑性能。 | [Download](https://www.123684.com/s/3p3Hjv-NBWD) |
 | [Display Driver Uninstaller](https://www.wagnardsoft.com/) | 一款功能强大的驱动卸载工具，用于彻底卸载图形卡等硬件驱动程序。 | [Download](https://www.123684.com/s/3p3Hjv-OBWD) |
 | [KMSTools](https://msfree.su/index.php?threads/681/post-51273) | 一款KMS激活工具箱，集合各种Window、Office KMS工具，能自动设置密钥管理服务激活Windows、Office VL版本。 | [Download](https://www.123684.com/s/3p3Hjv-WBWD) |
-| [Thunder](https://www.xunlei.com/) | 一款流行的下载工具，支持高速下载，广泛应用于大文件下载和资源管理。 | [Download](https://www.123684.com/s/3p3Hjv-CBWD) |
 | [VMware Workstation](www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://www.123684.com/s/3p3Hjv-sBWD) |
