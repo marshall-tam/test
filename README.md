@@ -1,21 +1,21 @@
 ## GitHub
 
-| 软件名称                  | 软件简介             | 来源/链接   |
-|---------------------------|----------------------|-------------|
+| 软件名称                          | 软件简介                                       | 来源/链接   |
+|-----------------------------------|----------------------------------------------|-------------|
 | [Alist](https://github.com/AlistGo/alist) | 一款轻量级、开源的文件管理工具，支持 Web 界面并兼容多种云存储服务。 | [Download](https://github.com/AlistGo/alist/releases/download/v3.41.0/alist-windows-386.zip) |
 | [AlistHelper](https://github.com/Xmarmalade/alisthelper) | Alist 的辅助工具，帮助更方便地管理 Alist 文件管理系统。 | [Download](https://github.com/Xmarmalade/alisthelper/releases/download/v0.1.5/AlistHelper_installer_v0.1.5_windows-x86_64.exe) |
 | [Atlas OS](https://atlasos.io/) | 一个轻量级、性能优化的操作系统，专为游戏和高效计算设计。 | [Download](https://github.com/Atlas-OS/Atlas/releases/download/0.4.1/AtlasPlaybook_v0.4.1.zip) |
 | [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | 一款免费开源的卸载工具，可以批量卸载软件，帮助清理系统中的无用程序。 | [Download](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.8.2/BCUninstaller_5.8.2_setup.exe) |
 | [Clash for Windows](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 一款基于 Clash 的 Windows 客户端，提供流量转发、规则设置、科学上网等功能。 | [Download](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_OPT-1/Clash.for.Windows.Setup.0.20.39_Opt-1.exe) |
 | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) | 一款功能强大的 Windows 系统维护工具，支持系统镜像管理、清理和修复等操作。 | [Download](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip) |
+| [Draw.io](https://github.com/jgraph/drawio-desktop) | 一个强大的图形绘制工具，支持多种绘图格式，广泛用于流程图、UML、网络图等的创建。 | [Download](https://github.com/jgraph/drawio-desktop/releases/download/v25.0.2/draw.io-25.0.2-windows-installer.exe) |
+| [Google Chrome Portable](https://github.com/zzp198/Google-Chrome-Portable) | 一个便携版的 Google Chrome，适合无需安装的场景使用。 | [Download](https://nightly.link/zzp198/Google-Chrome-Portable/workflows/build/main) |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows 上的一款增强工具集，提供多种实用的系统优化、窗口管理和开发工具。 | [Download](https://github.com/microsoft/PowerToys/releases/download/v0.87.1/PowerToysSetup-0.87.1-x64.exe) |
 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
 | [Rclone](https://github.com/rclone/rclone) | 一款命令行工具，提供同步、备份和加密等功能，支持多种云存储服务的操作。 | [Download](https://github.com/rclone/rclone/releases/download/v1.68.2/rclone-v1.68.2-windows-386.zip) |
+| [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true) |
 | [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
 | [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/download/release_def_12_8_2/DefenderRemover.exe) |
-| [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true) |
-| [Draw.io](https://github.com/jgraph/drawio-desktop) | 一个强大的图形绘制工具，支持多种绘图格式，广泛用于流程图、UML、网络图等的创建。 | [Download](https://github.com/jgraph/drawio-desktop/releases/download/v25.0.2/draw.io-25.0.2-windows-installer.exe) |
-| [Google Chrome Portable](https://github.com/zzp198/Google-Chrome-Portable) | 一个便携版的 Google Chrome，适合无需安装的场景使用。 | [Download](https://nightly.link/zzp198/Google-Chrome-Portable/workflows/build/main) |
 
 ## 官网
 
@@ -34,8 +34,8 @@
 | 软件名称       | 软件简介             | 来源/链接   |
 |----------------|----------------------|-------------|
 | [Bandizip](https://www.bandisoft.com/bandizip/) | 一款功能强大的压缩/解压工具，支持多种文件格式，界面简洁易用。 | [Download](https://www.123684.com/s/3p3Hjv-2BWD) |
-| [VMware Workstation](www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://www.123684.com/s/3p3Hjv-sBWD) |
-| [KMSTools](https://msfree.su/index.php?threads/681/post-51273) | 一款KMS激活工具箱，集合各种Window、Office KMS工具，能自动设置密钥管理服务激活Windows、Office VL版本。 | [Download](https://www.123684.com/s/3p3Hjv-WBWD) |
-| [Thunder](https://www.xunlei.com/) | 一款流行的下载工具，支持高速下载，广泛应用于大文件下载和资源管理。 | [Download](https://www.123684.com/s/3p3Hjv-CBWD) |
 | [CCleaner](https://www.ccleaner.com/) | 一款常用的系统优化和清理工具，能够清理垃圾文件、修复注册表、提升电脑性能。 | [Download](https://www.123684.com/s/3p3Hjv-NBWD) |
 | [DDU v18.0.8.9](https://www.wagnardsoft.com/) | 一款功能强大的驱动卸载工具，用于彻底卸载图形卡等硬件驱动程序。 | [Download](https://www.123684.com/s/3p3Hjv-OBWD) |
+| [KMSTools](https://msfree.su/index.php?threads/681/post-51273) | 一款KMS激活工具箱，集合各种Window、Office KMS工具，能自动设置密钥管理服务激活Windows、Office VL版本。 | [Download](https://www.123684.com/s/3p3Hjv-WBWD) |
+| [Thunder](https://www.xunlei.com/) | 一款流行的下载工具，支持高速下载，广泛应用于大文件下载和资源管理。 | [Download](https://www.123684.com/s/3p3Hjv-CBWD) |
+| [VMware Workstation](www.vmware.com) | 一款功能强大的虚拟化软件，可以在 Windows 上运行多个操作系统，适合开发、测试等需求。 | [Download](https://www.123684.com/s/3p3Hjv-sBWD) |
