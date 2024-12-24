@@ -12,6 +12,7 @@
 | [Google Chrome Portable](https://github.com/zzp198/Google-Chrome-Portable) | 一个便携版的 Google Chrome，适合无需安装的场景使用。 | [Download](https://nightly.link/zzp198/Google-Chrome-Portable/workflows/build/main) |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows 上的一款增强工具集，提供多种实用的系统优化、窗口管理和开发工具。 | [Download](https://github.com/microsoft/PowerToys/releases/download/v0.87.1/PowerToysSetup-0.87.1-x64.exe) |
 | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 一款适用于 Windows 下 PC 版微信/QQ/TIM 的防撤回补丁，并且微信版本可以选择安装多开功能。 | [Download](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.0/RevokeMsgPatcher.v2.0.zip) |
+| [Revi Playbook](https://github.com/meetrevision/playbook) | 一个用于优化系统和应用性能的脚本集合。 | [Download](https://github.com/meetrevision/playbook/releases/download/24.12/Revi-PB-24.12.apbx) |
 | [Rclone](https://github.com/rclone/rclone) | 一款命令行工具，提供同步、备份和加密等功能，支持多种云存储服务的操作。 | [Download](https://github.com/rclone/rclone/releases/download/v1.68.2/rclone-v1.68.2-windows-386.zip) |
 | [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true) |
 | [WinFSP](https://github.com/winfsp/winfsp) | 一款文件系统提供程序（FSP）库，允许开发者在 Windows 上创建和挂载虚拟文件系统。 | [Download](https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi) |
