@@ -15,6 +15,7 @@
 | [Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover) | 一款工具，用于卸载或禁用 Windows Defender 防病毒软件。 | [Download](https://github.com/ionuttbara/windows-defender-remover/releases/download/release_def_12_8_2/DefenderRemover.exe) |
 | [Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | 一款用于卸载或禁用 Microsoft Edge 浏览器的工具。 | [Download](https://github.com/ShadowWhisperer/Remove-MS-Edge/blob/main/Remove-Edge.exe?raw=true) |
 | [Draw.io](https://github.com/jgraph/drawio-desktop) | 一个强大的图形绘制工具，支持多种绘图格式，广泛用于流程图、UML、网络图等的创建。 | [Download](https://github.com/jgraph/drawio-desktop/releases/download/v25.0.2/draw.io-25.0.2-windows-installer.exe) |
+| [Google Chrome Portable](https://github.com/zzp198/Google-Chrome-Portable) | 一个便携版的 Google Chrome，适合无需安装的场景使用。 | [Download](https://nightly.link/zzp198/Google-Chrome-Portable/workflows/build/main) |
 
 ## 官网
 
